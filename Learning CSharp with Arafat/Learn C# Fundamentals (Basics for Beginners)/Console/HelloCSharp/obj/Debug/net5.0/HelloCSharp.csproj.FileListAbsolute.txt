@@ -1,0 +1,16 @@
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\HelloCSharp.exe
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\HelloCSharp.deps.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.dev.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\HelloCSharp.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\ref\HelloCSharp.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\bin\Debug\net5.0\HelloCSharp.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.csproj.AssemblyReference.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.AssemblyInfoInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.AssemblyInfo.cs
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.csproj.CoreCompileInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\ref\HelloCSharp.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\HelloCSharp\obj\Debug\net5.0\HelloCSharp.genruntimeconfig.cache
