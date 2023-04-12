@@ -1,0 +1,16 @@
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\Type_Conversion.exe
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\Type_Conversion.deps.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\Type_Conversion.runtimeconfig.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\Type_Conversion.runtimeconfig.dev.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\Type_Conversion.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\ref\Type_Conversion.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\bin\Debug\net5.0\Type_Conversion.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.csproj.AssemblyReference.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.AssemblyInfoInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.AssemblyInfo.cs
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.csproj.CoreCompileInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\ref\Type_Conversion.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Type_Conversion\obj\Debug\net5.0\Type_Conversion.genruntimeconfig.cache
