@@ -1,0 +1,16 @@
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\Variables_and_Constants.exe
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\Variables_and_Constants.deps.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\Variables_and_Constants.runtimeconfig.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\Variables_and_Constants.runtimeconfig.dev.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\Variables_and_Constants.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\ref\Variables_and_Constants.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\bin\Debug\net5.0\Variables_and_Constants.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.csproj.AssemblyReference.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.AssemblyInfoInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.AssemblyInfo.cs
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.csproj.CoreCompileInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\ref\Variables_and_Constants.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Variables_and_Constants\obj\Debug\net5.0\Variables_and_Constants.genruntimeconfig.cache
