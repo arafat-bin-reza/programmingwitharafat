@@ -1,0 +1,16 @@
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ClassesAndStaticMethods.exe
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ClassesAndStaticMethods.deps.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ClassesAndStaticMethods.runtimeconfig.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ClassesAndStaticMethods.runtimeconfig.dev.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ClassesAndStaticMethods.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ref\ClassesAndStaticMethods.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\bin\Debug\net5.0\ClassesAndStaticMethods.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.csproj.AssemblyReference.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.AssemblyInfoInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.AssemblyInfo.cs
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.csproj.CoreCompileInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ref\ClassesAndStaticMethods.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\ClassesAndStaticMethods\obj\Debug\net5.0\ClassesAndStaticMethods.genruntimeconfig.cache
