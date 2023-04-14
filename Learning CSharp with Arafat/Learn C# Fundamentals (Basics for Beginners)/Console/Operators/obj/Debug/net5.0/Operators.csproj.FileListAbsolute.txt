@@ -1,0 +1,16 @@
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\Operators.exe
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\Operators.deps.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\Operators.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\ref\Operators.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\bin\Debug\net5.0\Operators.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\ref\Operators.dll
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.pdb
+D:\programmingwitharafat\Learning CSharp with Arafat\Learn C# Fundamentals (Basics for Beginners)\Console\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
